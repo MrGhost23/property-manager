@@ -31,7 +31,7 @@ export default function Header() {
           </Sheet>
 
           <Link to="/" className="font-bold text-xl">
-            PropManage
+            Prop Manager
           </Link>
         </div>
 

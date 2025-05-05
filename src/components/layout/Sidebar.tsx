@@ -30,7 +30,7 @@ export default function Sidebar({ isDrawer = false }: SidebarProps) {
         isDrawer ? "w-full p-4" : "hidden md:block w-64 p-4"
       )}
     >
-      {isDrawer && <div className="font-bold text-xl mb-6">PropManag</div>}
+      {isDrawer && <div className="font-bold text-xl mb-6">Prop Manager</div>}
 
       <nav className="space-y-2">
         {navItems.map((item) => (
