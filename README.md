@@ -44,6 +44,7 @@ This project serves as a front-end practical test and demonstrates core React pr
 - **Date fns** for formatting date
 - **lottie-react** for splash screen animation
 - **lucide-react** for icons
+- **ShadCN** for reusable ui components
 
 ---
 
