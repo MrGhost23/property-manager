@@ -1,0 +1,221 @@
+{
+    "properties": [
+      {
+        "id": "1",
+        "name": "Maadi Heights",
+        "address": "15 Road 9, Maadi, Cairo",
+        "tenantCount": 5,
+        "rentDue": 25000
+      },
+      {
+        "id": "2",
+        "name": "Al Rehab City Apartments",
+        "address": "Block 7, Al Rehab City, New Cairo",
+        "tenantCount": 3,
+        "rentDue": 0
+      },
+      {
+        "id": "3",
+        "name": "Alexandria Sea View",
+        "address": "32 Corniche Road, Gleem, Alexandria",
+        "tenantCount": 2,
+        "rentDue": 18000
+      },
+      {
+        "id": "4",
+        "name": "El Gouna Beach Residence",
+        "address": "Villa 87, Abu Tig Marina, El Gouna, Hurghada",
+        "tenantCount": 4,
+        "rentDue": 35000
+      },
+      {
+        "id": "5",
+        "name": "Zamalek Towers",
+        "address": "12 Gezira Street, Zamalek, Cairo",
+        "tenantCount": 6,
+        "rentDue": 12000
+      }
+    ],
+    "tenants": [
+      {
+        "id": "1",
+        "propertyId": "1",
+        "name": "Omar Mohamed",
+        "leaseStart": "2023-01-15",
+        "leaseEnd": "2024-01-14",
+        "rentAmount": 8000,
+        "paymentStatus": "Paid"
+      },
+      {
+        "id": "2",
+        "propertyId": "1",
+        "name": "Laila Ibrahim",
+        "leaseStart": "2023-03-01",
+        "leaseEnd": "2024-02-29",
+        "rentAmount": 7500,
+        "paymentStatus": "Unpaid"
+      },
+      {
+        "id": "3",
+        "propertyId": "1",
+        "name": "Omar Khalid",
+        "leaseStart": "2023-02-15",
+        "leaseEnd": "2023-08-14",
+        "rentAmount": 6000,
+        "paymentStatus": "Paid"
+      },
+      {
+        "id": "4",
+        "propertyId": "1",
+        "name": "Heba Mahmoud",
+        "leaseStart": "2023-01-01",
+        "leaseEnd": "2023-12-31",
+        "rentAmount": 8500,
+        "paymentStatus": "Unpaid"
+      },
+      {
+        "id": "5",
+        "propertyId": "1",
+        "name": "Tarek Abdel-Aziz",
+        "leaseStart": "2023-04-01",
+        "leaseEnd": "2024-03-31",
+        "rentAmount": 9000,
+        "paymentStatus": "Unpaid"
+      },
+      {
+        "id": "6",
+        "propertyId": "2",
+        "name": "Noura Hassan",
+        "leaseStart": "2023-02-01",
+        "leaseEnd": "2024-01-31",
+        "rentAmount": 10000,
+        "paymentStatus": "Paid"
+      },
+      {
+        "id": "7",
+        "propertyId": "2",
+        "name": "Khaled Mahmoud",
+        "leaseStart": "2023-03-15",
+        "leaseEnd": "2024-03-14",
+        "rentAmount": 9500,
+        "paymentStatus": "Paid"
+      },
+      {
+        "id": "8",
+        "propertyId": "2",
+        "name": "Amira Mostafa",
+        "leaseStart": "2023-01-15",
+        "leaseEnd": "2023-07-14",
+        "rentAmount": 11000,
+        "paymentStatus": "Paid"
+      },
+      {
+        "id": "9",
+        "propertyId": "3",
+        "name": "Youssef Ali",
+        "leaseStart": "2023-05-01",
+        "leaseEnd": "2024-04-30",
+        "rentAmount": 9000,
+        "paymentStatus": "Unpaid"
+      },
+      {
+        "id": "10",
+        "propertyId": "3",
+        "name": "Dina Sherif",
+        "leaseStart": "2023-04-15",
+        "leaseEnd": "2023-10-14",
+        "rentAmount": 9000,
+        "paymentStatus": "Unpaid"
+      },
+      {
+        "id": "11",
+        "propertyId": "4",
+        "name": "Mahmoud Farouk",
+        "leaseStart": "2023-02-01",
+        "leaseEnd": "2024-01-31",
+        "rentAmount": 12000,
+        "paymentStatus": "Paid"
+      },
+      {
+        "id": "12",
+        "propertyId": "4",
+        "name": "Amal Hossam",
+        "leaseStart": "2023-03-01",
+        "leaseEnd": "2024-02-29",
+        "rentAmount": 11000,
+        "paymentStatus": "Unpaid"
+      },
+      {
+        "id": "13",
+        "propertyId": "4",
+        "name": "Sherif Nabil",
+        "leaseStart": "2023-01-15",
+        "leaseEnd": "2023-07-14",
+        "rentAmount": 13000,
+        "paymentStatus": "Paid"
+      },
+      {
+        "id": "14",
+        "propertyId": "4",
+        "name": "Rania Ahmed",
+        "leaseStart": "2023-02-15",
+        "leaseEnd": "2024-02-14",
+        "rentAmount": 12500,
+        "paymentStatus": "Paid"
+      },
+      {
+        "id": "15",
+        "propertyId": "5",
+        "name": "Amr Samy",
+        "leaseStart": "2023-01-01",
+        "leaseEnd": "2023-12-31",
+        "rentAmount": 15000,
+        "paymentStatus": "Unpaid"
+      },
+      {
+        "id": "16",
+        "propertyId": "5",
+        "name": "Mariam Essam",
+        "leaseStart": "2023-03-01",
+        "leaseEnd": "2024-02-29",
+        "rentAmount": 14000,
+        "paymentStatus": "Paid"
+      },
+      {
+        "id": "17",
+        "propertyId": "5",
+        "name": "Hassan Mohamed",
+        "leaseStart": "2023-02-15",
+        "leaseEnd": "2024-02-14",
+        "rentAmount": 13500,
+        "paymentStatus": "Paid"
+      },
+      {
+        "id": "18",
+        "propertyId": "5",
+        "name": "Aya Kamal",
+        "leaseStart": "2023-04-01",
+        "leaseEnd": "2024-03-31",
+        "rentAmount": 15500,
+        "paymentStatus": "Unpaid"
+      },
+      {
+        "id": "19",
+        "propertyId": "5",
+        "name": "Mohamed Adel",
+        "leaseStart": "2023-01-15",
+        "leaseEnd": "2023-07-14",
+        "rentAmount": 14500,
+        "paymentStatus": "Unpaid"
+      },
+      {
+        "id": "20",
+        "propertyId": "5",
+        "name": "Salma Hussein",
+        "leaseStart": "2023-03-15",
+        "leaseEnd": "2024-03-14",
+        "rentAmount": 16000,
+        "paymentStatus": "Paid"
+      }
+    ]
+  }
