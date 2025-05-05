@@ -42,6 +42,8 @@ This project serves as a front-end practical test and demonstrates core React pr
 - **React Hot Toast** for notifications (toasts)
 - **Radix UI** components for accessible UI
 - **Date fns** for formatting date
+- **lottie-react** for splash screen animation
+- **lucide-react** for icons
 
 ---
 
